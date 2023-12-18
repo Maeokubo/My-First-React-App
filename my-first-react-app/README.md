@@ -1,4 +1,5 @@
 ## Assignment react application #fsd5-white-group-3 
+![View](https://github.com/Maeokubo/My-First-React-App/blob/main/my-first-react-app/assingment-react-vite.png)
 
 ### React + Vite
 
