@@ -1,5 +1,6 @@
-## Assignment react application #fsd5-white-group-3 🌪️
+## Assignment react application #fsd5-white-group-3 
 
+# [You can view the project here](http://localhost:3000/) ⛽️
 ### React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
